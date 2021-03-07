@@ -4,7 +4,7 @@ public class jenkinsExample {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hello Jenkins");
-		System.out.println("New Program");
+		System.out.println("New Program Jenkins");
 	}
 
 }
